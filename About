@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Raccoon Rehabilitation & Adoption</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2f4f4f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #2f4f4f;
+        }
+        .image {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image img {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #2f4f4f;
+            color: white;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>About Our Mission</h1>
+    <p>Raccoon Rehabilitation & Adoption Center</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="adopt.html">Adopt</a>
+</nav>
+
+<div class="container">
+    <h2>Who We Are</h2>
+    <p>
+        We are a dedicated team of wildlife enthusiasts committed to rescuing, rehabilitating,
+        and rehoming raccoons in need. From curious kits to seasoned snack bandits,
+        every raccoon in our care receives expert attention, enrichment, and lots of snacks.
+    </p>
+
+    <div class="image">
+        <img src="images/raccoon1.jpg" alt="Rescued raccoon">
+    </div>
+
+    <h2>Our Mission</h2>
+    <p>
+        Our mission is to provide a safe and nurturing environment for raccoons while educating
+        the public about responsible wildlife interaction. We believe every raccoon deserves
+        a second chance—and maybe a secure trash can.
+    </p>
+
+    <h2>What We Do</h2>
+    <ul>
+        <li>Rescue injured or abandoned raccoons</li>
+        <li>Provide medical care and rehabilitation</li>
+        <li>Match raccoons with loving (and patient) adopters</li>
+        <li>Educate communities about wildlife coexistence</li>
+    </ul>
+
+    <div class="image">
+        <img src="images/raccoon2.jpg" alt="Playful raccoon">
+    </div>
+
+    <h2>Why Raccoons?</h2>
+    <p>
+        Raccoons are intelligent, curious, and full of personality. While they may have a reputation
+        for mischief, they are incredibly adaptable animals that thrive with proper care and attention.
+    </p>
+</div>
+
+<footer>
+    <p>© 2026 Urban Wildlife Rescue</p>
+</footer>
+
+</body>
+</html>
